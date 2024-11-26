@@ -1,0 +1,13 @@
+cv-corpus-19.0-2024-09-13/
+*.wav
+ESC-50-master/
+artifacts/
+myenv/
+tf29/
+wandb/
+test/
+test_denoiser/
+valid/
+valid_denoiser/
+train/
+train_denoiser/
